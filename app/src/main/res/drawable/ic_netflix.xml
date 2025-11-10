@@ -1,0 +1,53 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#000000"
+        android:pathData="M12,0L12,0A12,12 0,0 1,24 12L24,12A12,12 0,0 1,12 24L12,24A12,12 0,0 1,0 12L0,12A12,12 0,0 1,12 0z" />
+    <path android:pathData="M8.008,4.8L8.057,19.201C9.109,18.998 9.935,19.02 10.868,18.936V4.817L8.008,4.8Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:endX="14.097"
+                android:endY="7.573"
+                android:startX="11.187"
+                android:startY="10.896"
+                android:type="linear">
+                <item
+                    android:color="#FFB1060F"
+                    android:offset="0" />
+                <item
+                    android:color="#FF7B010C"
+                    android:offset="0.546" />
+                <item
+                    android:color="#00E50914"
+                    android:offset="1" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:pathData="M13.1,4.817H15.96L15.993,19.167L13.083,18.688L13.1,4.817Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:endX="9.174"
+                android:endY="15.675"
+                android:startX="12.09"
+                android:startY="12.308"
+                android:type="linear">
+                <item
+                    android:color="#FFB1060F"
+                    android:offset="0" />
+                <item
+                    android:color="#FF7B010C"
+                    android:offset="0.625" />
+                <item
+                    android:color="#00B1060F"
+                    android:offset="1" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path
+        android:fillColor="#E50914"
+        android:pathData="M8.041,4.817C8.107,4.982 13.001,18.903 13.001,18.903C13.805,18.897 14.883,19.028 15.943,19.151L10.851,4.817H8.041Z" />
+</vector>

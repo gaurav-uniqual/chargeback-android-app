@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <color name="backgroundPage">#F4F5F7</color>
+    <color name="baseBlack">#212121</color>
+    <color name="neutral100">#F2F4F7</color>
+    <color name="neutral200">#E3E6EB</color>
+    <color name="neutral300">#D0D5DD</color>
+    <color name="neutral400">#98A2B3</color>
+    <color name="neutral500">#667085</color>
+    <color name="neutral80">#636A79</color>
+    <color name="divider">#E2E6EA</color>
+    <color name="blue">#002FFF</color>
+</resources>
